@@ -1,9 +1,9 @@
 # NTUST 人工智慧與邊緣運算實務 
-臺灣技大學資訊工程系 109學年度第二學期 ( 2021/2/24 - 2021/6/23 ) 
-課程代號：CS5149701
-課程講師：許哲豪 (Che-Hao,Hsu / Jack Hsu) 博士
 
-[【課程說明】](https://hackmd.io/@OmniXRI-Jack/NTUST-EdgeAI)
++ 臺灣科技大學資訊工程系 109學年度第二學期 ( 2021/2/24 - 2021/6/23 ) 
++ 課程代號：CS5149701 
++ 課程講師：許哲豪 (Che-Hao,Hsu / Jack Hsu) 博士
++ [【課程說明】](https://hackmd.io/@OmniXRI-Jack/NTUST-EdgeAI)
 
 ## 專題製作_M10915109_何嘉峻
 
@@ -126,7 +126,3 @@ Application Oriented License Plate(AOLP) Database: http://aolpr.ntust.edu.tw/lab
 由於車牌某部分也是屬於個資的部分，這邊提供我自己收集的**部分**資料集作為訓練範例，且僅作為學術研究使用，不得用於其他用途，已經將訓練集和驗證集的影像和標註檔分別放置在 `yolo_train`, `yolo_valid` 資料夾中。
 
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/chiachun2491/NTUST_EdgeAI/v0.1/total.svg)](https://gitHub.com/chiachun2491/NTUST_EdgeAI/releases/)
-
-
-
-[【課程說明】](https://hackmd.io/@OmniXRI-Jack/NTUST-EdgeAI)
