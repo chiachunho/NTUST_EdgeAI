@@ -71,6 +71,10 @@ Application Oriented License Plate(AOLP) Database: http://aolpr.ntust.edu.tw/lab
 3. **車牌 OCR 辨識**：
     使用 tesseract 作為 OCR 辨識模型，在車牌偵測的模型後得到車牌位置後，將車牌圖片進行OCR辨識得到車牌字元。
 
+下圖為車牌偵測模型的訓練過程損失(Loss)及類別平均精確度(mAP)變化圖
+
+![](https://i.imgur.com/z47DF1N.png)
+
 ### 4 實驗結果
 
 #### 4.1 成果展示說明
