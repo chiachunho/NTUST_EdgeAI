@@ -1,0 +1,5 @@
+classes= 1
+train  = ../plate_detection/cfg/train.txt
+valid  = ../plate_detection/cfg/valid.txt
+names = ../plate_detection/cfg/plate.names
+backup = ../plate_detection/weights/

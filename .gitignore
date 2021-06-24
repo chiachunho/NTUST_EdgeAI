@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# weights
+*.weights
+
+# pre-trained weights for the convolutional layers
+yolov4-tiny.conv.29

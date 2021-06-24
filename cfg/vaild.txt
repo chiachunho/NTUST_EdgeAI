@@ -1,0 +1,10 @@
+../plate_detection/yolo_valid/IM_41.jpg
+../plate_detection/yolo_valid/IM_42.jpg
+../plate_detection/yolo_valid/IM_43.jpg
+../plate_detection/yolo_valid/IM_44.jpg
+../plate_detection/yolo_valid/IM_45.jpg
+../plate_detection/yolo_valid/IM_46.jpg
+../plate_detection/yolo_valid/IM_47.jpg
+../plate_detection/yolo_valid/IM_48.jpg
+../plate_detection/yolo_valid/IM_49.jpg
+../plate_detection/yolo_valid/IM_50.jpg
